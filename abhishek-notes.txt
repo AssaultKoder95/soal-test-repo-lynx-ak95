@@ -1,4 +1,1 @@
-Abhishek Khanna
-Educator
-13/04/2021
-Fav Team is MI for today
+branch name: feat/<your_name>-<your_batch_name>
